@@ -7,7 +7,7 @@ Composer
 XAMPP
 
 Para la parte backend, se descargará o clonará el repositorio: 
-https://github.com/maricarmen98a/TFM-Backend.git
+https://github.com/maricarmen98a/TFM-PEC3_BACKEND
 
 1.	Primero, se introducirá el comando composer install en la carpeta backend.
 2.	Se abrirá XAMPP y se presionará Start en Apache y MySQL.
